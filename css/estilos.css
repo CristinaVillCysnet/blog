@@ -1,6 +1,6 @@
 body
 {
-    background: #1e1f24;
+    background: #d4d6e2;
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -52,7 +52,7 @@ body
 }
 #footer
 {
-    background: #37488b;
+    background: #5186d4;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
